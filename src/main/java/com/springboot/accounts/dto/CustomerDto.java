@@ -3,8 +3,9 @@ package com.springboot.accounts.dto;
 import lombok.Data;
 
 @Data
-public class CustomersDto {
+public class CustomerDto {
     private String name;
     private String email;
     private String mobileNumber;
+    private AccountDto accountDto;
 }
