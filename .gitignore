@@ -37,5 +37,5 @@ build/
 /data/
 data/
 *.db
-*.db.mv.db
+*.mv.db
 *.db.trace.db
